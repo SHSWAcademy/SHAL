@@ -23,6 +23,7 @@ Code Conventioin : https://naver.github.io/hackday-conventions-java/?utm_source=
 2️⃣ 문제 폴더 확인 및 파일 작성
 1. 해당 주차 폴더와 문제 번호 확인 week1/1001/ week1/1002/
 2. 문제 폴더 내에 자신의 풀이 파일 업로드
+
    파일명 규칙: 문제번호_이름.java 예시: 1000_이상원
    
 ⚠️ 주의: 기존 문제 파일은 수정하지 않고, 새로운 파일만 추가하기
