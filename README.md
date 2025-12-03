@@ -1,4 +1,4 @@
-# SHSWAlgorithm
+# SHAL
 
 Notion Link : https://www.notion.so/SW-2b7319fec6fe807b989df98e8ee13815?pvs=12 
 
