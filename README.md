@@ -13,7 +13,7 @@ Code Conventioin : https://naver.github.io/hackday-conventions-java/?utm_source=
 2. 로컬 컴퓨터로 저장소 클론
 
    
-   git clone https://github.com/SHAL.git
+   git clone https://github.com/nippyclouding/SHAL.git
    
    cd SHAL
    
