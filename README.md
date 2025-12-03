@@ -21,7 +21,6 @@ Code Conventioin : https://naver.github.io/hackday-conventions-java/?utm_source=
 
 
 1️⃣ 작업 전 항상 최신 상태로 업데이트 git pull origin main
-⚠️ 중요: 작업 시작 전 반드시 최신 상태로 업데이트하여 충돌을 방지하기
 
 2️⃣ 문제 폴더 확인 및 파일 작성
 1. 해당 주차 폴더와 문제 번호 확인 week1/1001/ week1/1002/
