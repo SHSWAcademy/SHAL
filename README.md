@@ -9,7 +9,7 @@ Code Conventioin : https://naver.github.io/hackday-conventions-java/?utm_source=
 
 🧷 스터디 GitHub 참여 가이드
 <처음 한 번만 저장소 클론>
-1. 스터디 공유 GitHub 저장소 주소 확인 : https://github.com/nippyclouding/SHSWAlgorithm
+1. 스터디 공유 GitHub 저장소 주소 확인 : https://github.com/nippyclouding/SHAL
 2. 로컬 컴퓨터로 저장소 클론
    git clone https://github.com/SHSWAlgorithm.git
    cd SHSWAlgorithm
