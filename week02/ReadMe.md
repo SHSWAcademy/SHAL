@@ -8,4 +8,4 @@
     
     https://www.acmicpc.net/problem/1940 (배열 응용 - 투포인터) 출처 : 선생님이 올려둔 문제 - 배열 응용 투포인터
     
-    https://www.acmicpc.net/problem/5397 (연결리스트) 출처 : 바킹독 연결리스트
+    https://www.acmicpc.net/problem/1158 (연결리스트) 출처 : 바킹독 연결리스트
