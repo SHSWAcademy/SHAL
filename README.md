@@ -26,12 +26,12 @@ Code Conventioin : https://naver.github.io/hackday-conventions-java/?utm_source=
 1. 해당 주차 폴더와 문제 번호 확인 week1/1001/ week1/1002/
 2. 문제 폴더 내에 자신의 풀이 파일 업로드
 
-   파일명 규칙: 문제번호_이름.java 예시: 1000_이상원
+   파일명 규칙: 이름_문제번호.java 예시: 이상원_1000
    
 
 
 3️⃣ 로컬에서 커밋 (commit) 
-  git add . git commit -m "1001_이상원" 
+  git add . git commit -m "이상원_1000" 
   커밋 메시지 예시: 백준 문제 번호 + 이름 
   
   백준 문제가 아닌 프로그래머스라면 "평균값 구하기_이상원" 처럼 문제 이름 + 이름 으로 업로드하기
