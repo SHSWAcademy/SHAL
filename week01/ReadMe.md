@@ -8,3 +8,6 @@ https://hypnotic-mayonnaise-5c3.notion.site/2ba319fec6fe80a28911daf2e766ec69
 
 최범근
 https://www.notion.so/WEEK1-2bfc9400dae380829df1c93e683deaf3?source=copy_link
+
+김규태
+https://www.notion.so/1-2b9743febb5e80c0b30ec4a9c6543c66?source=copy_link

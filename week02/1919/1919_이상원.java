@@ -1,6 +1,6 @@
 package ShinHan;
 
-/* 1. 스택을 이용한 풀이
+// 1. 스택을 이용한 풀이
 import java.util.*;
 import java.io.*;
 
@@ -55,7 +55,7 @@ class Main{
         return cnt;
     }
 }
-*/
+
 
 // 2. 배열 풀이
 import java.util.*;

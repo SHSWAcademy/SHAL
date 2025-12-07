@@ -29,3 +29,4 @@ public class BOJ1919 {
         System.out.println(first.length() + second.length() - cnt*2);
     }
 }
+
