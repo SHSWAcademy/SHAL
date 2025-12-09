@@ -37,18 +37,18 @@ public class Main{
         int count = 0;        
         Arrays.sort(arrNum);
         
-        int s = 0;
-        int e = arrNum.length - 1;
+        int start = 0;
+        int end = arrNum.length - 1;
         
-        while(s<e){
-            if (arrNum[s] + arrNum[e] < x) {
-                s++;
-            } else if (arrNum[s] + arrNum[e] > x) {
-                e--;
+        while(start < end){
+            if (arrNum[start] + arrNum[end] < x) {
+                start ++;
+            } else if (arrNum[start] + arrNum[end] > x) {
+                end --;
             } else {
                 count ++;
-                s++;
-                e--;
+                start ++;
+                end --;
             }
         }
         System.out.println(count);
