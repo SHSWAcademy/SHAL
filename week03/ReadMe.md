@@ -22,11 +22,15 @@ https://www.acmicpc.net/problem/2164
 TMI : 자바의 stack 자료 구조는 엄청 과거에 사용하던 자료 구조이기 때문에 성능이 좋은 편이 아닙니다.
 
 발표 준비 시에 아래를 기억하고 준비해주세요 ! 
+
 자바에서는 Stack 대신 ArrayDeque라는 자료구조를 사용하는데, 
 
 Deque<Integer> stack = new ArrayDeque<>();
+
 Queue<Integer> queue = new ArrayDeque<>(); 에는 각자 가지고 있는 기능이 다릅니다. (다형성)
+
 자바의 다형성도 복습해보는 기회가 되었으면 좋겠습니다 ~
+
 
 <img width="691" height="335" alt="무제" src="https://github.com/user-attachments/assets/0f15ba78-dd08-431d-a228-72dfd3da7454" />
 
