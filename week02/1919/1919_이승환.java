@@ -68,3 +68,15 @@ public class B_1919_이승환 {
 		
 	}
 }
+
+
+/*
+
+for(char c3 : alpha) {
+			//wordHash에 word1Hash랑 word2Hash 넣어서 차이 구해서 더하기
+			word1Hash.put(c3, word1Hash.getOrDefault(c3,0));
+			word2Hash.put(c3, word2Hash.getOrDefault(c3,0));
+		}
+		이 코드 줄은 없어도 되지 않나요 ?! 코드가 잘 이해안되어서 남겨봅니다 ...
+
+*/
