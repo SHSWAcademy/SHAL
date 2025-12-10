@@ -25,9 +25,9 @@ TMI : 자바의 stack 자료 구조는 엄청 과거에 사용하던 자료 구�
 
 자바에서는 Stack 대신 ArrayDeque라는 자료구조를 사용하는데, 
 
-Deque<Integer> stack = new ArrayDeque<>();
+Deque<Integer> q = new ArrayDeque<>();
 
-Queue<Integer> queue = new ArrayDeque<>(); 에는 각자 가지고 있는 기능이 다릅니다. (다형성)
+Queue<Integer> q = new ArrayDeque<>(); 에는 각자 가지고 있는 기능이 다릅니다. (다형성)
 
 자바의 다형성도 복습해보는 기회가 되었으면 좋겠습니다 ~
 
