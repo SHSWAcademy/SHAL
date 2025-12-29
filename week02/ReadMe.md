@@ -16,3 +16,4 @@
     이상원 https://hypnotic-mayonnaise-5c3.notion.site/2-_-2c0319fec6fe8069bfadfdb8b3a49266?source=copy_link
     김규태 https://fortune-purpose-00c.notion.site/2-2c4743febb5e802d9f07ed27d1a573c9?source=copy_link
     최범근 https://www.notion.so/WEEK2-2c3c9400dae3802c9ed0d6569086143a?source=copy_link
+    김도연 https://www.notion.so/2-2025-12-09-BOJ3273-2bfe6b14c55d8098b932ea0581be8efb?source=copy_link
