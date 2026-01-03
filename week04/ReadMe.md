@@ -10,6 +10,8 @@ BFS 템플릿 코드 https://nippyclouding.tistory.com/2
 
 https://www.youtube.com/watch?v=ftOmGdm95XI&t=1s
 
+
+
 4주차 문제 (출처 바킹독 문제집, 위 영상에서 3문항 모두 풀이법을 알려줍니다.)
 
 https://www.acmicpc.net/problem/2178 (발표 문제)
@@ -19,3 +21,7 @@ https://www.acmicpc.net/problem/7576
 https://www.acmicpc.net/problem/4179
 
 발표 주제 : BFS의 동작 원리, 백준 2178 그림 문항 풀이
+
+BFS 유형은 코드 작성 시 템플릿, 틀이 어느정도 정해져있는 문항입니다. 
+
+자다가 일어나도 BFS 템플릿 코드가 나올 수 있도록 손에 익히는게 중요한 유형
