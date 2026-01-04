@@ -40,5 +40,4 @@ Queue<Integer> q = new ArrayDeque<>(); 에는 각자 가지고 있는 기능이 
 
 
 이상원 https://www.notion.so/3-_-2d7319fec6fe80a986b7ec25d38b72d8
-
-
+최범근 https://www.notion.so/WEEK3-2dec9400dae3806fa317d2c62becb76e?source=copy_link
