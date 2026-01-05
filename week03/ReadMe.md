@@ -43,4 +43,6 @@ Queue<Integer> q = new ArrayDeque<>(); 에는 각자 가지고 있는 기능이 
 
 최범근 https://www.notion.so/WEEK3-2dec9400dae3806fa317d2c62becb76e?source=copy_link
 
-기ㅁ규태 https://fortune-purpose-00c.notion.site/3-2de743febb5e80ac9c65ed3f4467c605?source=copy_link
+김규태 https://fortune-purpose-00c.notion.site/3-2de743febb5e80ac9c65ed3f4467c605?source=copy_link
+
+김도연 https://www.notion.so/3-BOJ2493-2cbe6b14c55d8030a1a3dba38116ff74?source=copy_link
