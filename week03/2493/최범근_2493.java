@@ -22,7 +22,7 @@ public class BOJ2493 {
             }
             if (stack.isEmpty()) {  // 첫번째 인덱스 처리
                 sb.append("0 ");
-            } else if (stack.peek() > height) { // 현재 탑의 위치보다 크다면 해당 탑의 인덱스
+            } else if (stack.peek() >= height) { // 현재 탑의 위치보다 크거나 같다면 해당 탑의 인덱스
                 sb.append(list.indexOf(String.valueOf(stack.peek()))+1).append(" "); // 리스트에 저장된 탑의 높이의 인덱스 번호 +1 추출
             }
             stack.push(height);
