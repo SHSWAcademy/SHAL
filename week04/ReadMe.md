@@ -12,15 +12,18 @@ https://www.youtube.com/watch?v=ftOmGdm95XI&t=1s
 
 
 
-4주차 문제 (출처 바킹독 문제집, 위 영상에서 3문항 모두 풀이법을 알려줍니다.)
+4주차 문제 : 3문항 (출처 바킹독 문제집, 위 영상에서 토마토 문제와 불 문제는 풀이법을 알려줍니다.)
 
-https://www.acmicpc.net/problem/2178 (발표 문제)
-
+토마토
 https://www.acmicpc.net/problem/7576
 
+불!
 https://www.acmicpc.net/problem/4179
 
-발표 주제 : BFS의 동작 원리, 백준 2178 그림 문항 풀이
+숨바꼭질
+https://www.acmicpc.net/problem/1697 
+
+발표 주제 : 불! 접근법, 해결 방법
 
 BFS 유형은 코드 작성 시 템플릿, 틀이 어느정도 정해져있는 문항입니다. 
 
