@@ -14,3 +14,6 @@ https://www.acmicpc.net/problem/6593
 
 빙산
 https://www.acmicpc.net/problem/2573 발표문제
+
+빙산 문제 굉장히 어렵습니다
+할 수 있는 부분까지 열심히 해봅시다 ! 
