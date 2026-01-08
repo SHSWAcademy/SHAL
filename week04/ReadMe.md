@@ -14,6 +14,9 @@ https://www.youtube.com/watch?v=ftOmGdm95XI&t=1s
 
 4주차 문제 : 3문항 (출처 바킹독 문제집, 위 영상에서 토마토 문제와 불 문제는 풀이법을 알려줍니다.)
 
+발표문제 (발표 완료)
+https://www.acmicpc.net/problem/1679
+
 토마토
 https://www.acmicpc.net/problem/7576
 
