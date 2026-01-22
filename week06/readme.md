@@ -9,7 +9,4 @@ https://www.acmicpc.net/problem/11724
 
 https://www.acmicpc.net/problem/13023
 
-
-
-
-
+발표 주제 : 그리디 알고리즘 조사, 설명
