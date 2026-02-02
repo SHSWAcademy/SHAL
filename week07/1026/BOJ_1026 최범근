@@ -1,0 +1,35 @@
+import java.util.*;
+import java.io.*;
+
+public class BOJ1026 {
+    public static void main (String[] args) throws IOException{
+        int sum = 0;
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int n = Integer.parseInt(br.readLine());
+        String[] strA = br.readLine().split(" ");
+        String[] strB = br.readLine().split(" ");
+
+        List<Integer> a = new ArrayList<>();
+        List<Integer> b = new ArrayList<>();
+
+
+        for (int i=0; i<n; i++) {
+            a.add(Integer.parseInt(strA[i]));
+            b.add(Integer.parseInt(strB[i]));
+        }
+
+        // 오름차순
+        Collections.sort(a);
+        // 내림차순
+        b.sort(Collections.reverseOrder());
+
+        for (int i=0; i<a.size(); i++) {
+            sum += a.get(i) * b.get(i);
+        }
+
+        System.out.println(sum);
+
+        // A, B의 가장 작은수와 가장 큰수를 곱하여 최소값을 도출하는 문제로 곱하는 순간
+        // 최선의 선택을 해야하기때문에 그리디 알고리즘
+    }
+}
