@@ -4,19 +4,19 @@
 
 재귀 함수 템플릿
 
-public void(int 등 다른 반환형도 가능) recursive ( 파라미터... ) {
+    public void(int 등 다른 반환형도 가능) recursive ( 파라미터... ) {
 
-  if (재귀의 종료 조건) 재귀 종료 
+        if (재귀의 종료 조건) 재귀 종료 
   
-  else {
+        else {
   
-    // 재귀 종료 조건이 만족하지 않을 때 ...
+          // 재귀 종료 조건이 만족하지 않을 때 ...
     
-    recursive (파라미터 ...)
+          recursive (파라미터 ...)
     
-  }
+          }
   
-}
+      }
 
 
 1. 재귀 함수의 종료 조건 설정 (base condition)
@@ -40,4 +40,5 @@ public void(int 등 다른 반환형도 가능) recursive ( 파라미터... ) {
 5.
 6.
 7. 에 대해 감을 잡는 문제
+
 
