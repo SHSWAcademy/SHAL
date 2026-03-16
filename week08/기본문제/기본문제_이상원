@@ -35,11 +35,24 @@ private static int recursive(int n) {
   }
 }
 
-자연수 N이 입력되면 N에 대한 이진수를 재귀함수를 이용하여 출력하는 프로그램을 작성 (진행 중..)
+자연수 N이 입력되면 N에 대한 이진수를 재귀함수를 이용하여 출력하는 프로그램을 작성 
 
-private static int recursive(int n) { // n = 10진수
-  if () 
-  else {
-    
-  }
+import java.util.*;
+import java.io.*;
+
+class Main {
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int n = Integer.parseInt(br.readLine());
+
+        
+        System.out.println(recursive(n));
+    }
+    private static String recursive(int n) { // n = 10진수
+      if (n / 2 == 0) {
+        return String.valueOf(n % 2);
+      } else {
+        return recursive(n / 2) + String.valueOf(n % 2);
+      }
+    }
 }
